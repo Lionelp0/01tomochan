@@ -31,7 +31,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://files.catbox.moe/vsea08.mp4",
+            "https://ia904707.us.archive.org/16/items/1-4981041373248488249/1_4981041373248488249.mp4",
           label: "1080p",
           default: true
         },
