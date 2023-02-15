@@ -31,7 +31,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://files.catbox.moe/6b9feg.mp4",
+            "https://files.catbox.moe/vsea08.mp4",
           label: "1080p",
           default: true
         },
